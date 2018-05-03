@@ -1,0 +1,40 @@
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Bot Application.dll.config
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Bot Application.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Bot Application.pdb
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Autofac.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Chronic.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.Bot.Builder.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.Bot.Connector.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Newtonsoft.Json.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.Net.Http.Formatting.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.Web.Http.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.Web.Http.WebHost.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Autofac.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.Bot.Builder.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.Bot.Connector.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\Newtonsoft.Json.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.Net.Http.Formatting.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.Web.Http.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\System.Web.Http.WebHost.xml
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\obj\Release\Bot Application.dll
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\obj\Release\Bot Application.pdb
+c:\users\hitakagi\documents\visual studio 2015\Projects\LangTranslationBotDemo\LangTranslationBotDemo\obj\Release\LangTranslationBotDemo.csprojResolveAssemblyReference.cache
