@@ -1,0 +1,139 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "HelpDesk1",
+  "desc": "",
+  "culture": "ja-jp",
+  "intents": [
+    {
+      "name": "GA"
+    },
+    {
+      "name": "HR"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "プリンターが動かない",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "プリンターのトナー",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "プリンターの紙が無い",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "プロジェクターが使える会議室",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "プロジェクターを借りたい",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "ホワイトボードのマーカーが無い",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "中途採用候補者を紹介したい",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "休日出勤をした時の勤怠カテゴリはどれにすればよいですか",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "会議室を予約したい",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "住所変更をしたい",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "子供が生まれた",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "弔辞の際の手続きについて知りたい",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "慶事の際の手続きについて知りたい",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "来客用の会議室を予約したい",
+      "intent": "GA",
+      "entities": []
+    },
+    {
+      "text": "組織図はどこでダウンロードできますか",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "結婚した",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "結婚したので手続きをしたい",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "給与明細はどこで確認できますか",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "職位",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "職位グレードの種類を知りたい",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "自分の職位を知りたい",
+      "intent": "HR",
+      "entities": []
+    },
+    {
+      "text": "部署移動を希望する方法について知りたい",
+      "intent": "HR",
+      "entities": []
+    }
+  ]
+}
