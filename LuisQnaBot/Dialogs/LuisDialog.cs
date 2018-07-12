@@ -20,6 +20,8 @@ namespace Microsoft.Bot.LuisQnaBot
         {
         }
 
+        // Add your LUIS Intent
+        // Go to https://luis.ai and create a new intent, then train/publish your luis app.
         [LuisIntent("None")]
         public async Task NoneIntent(IDialogContext context, LuisResult result)
         {
@@ -27,7 +29,6 @@ namespace Microsoft.Bot.LuisQnaBot
         }
 
         // Go to https://luis.ai and create a new intent, then train/publish your luis app.
-        // Finally replace "Greeting" with the name of your newly created intent in the following handler
         [LuisIntent("GA")]
         public async Task GAIntent(IDialogContext context, LuisResult result)
         {
@@ -35,12 +36,14 @@ namespace Microsoft.Bot.LuisQnaBot
             await context.Forward(new GADialog(), ResumeAfterQnA, context.Activity, CancellationToken.None);
         }
 
+        // Go to https://luis.ai and create a new intent, then train/publish your luis app.
         [LuisIntent("HR")]
         public async Task HRIntent(IDialogContext context, LuisResult result)
         {
             await context.PostAsync($"HR Intent");
             await context.Forward(new HRDialog(), ResumeAfterQnA, context.Activity, CancellationToken.None);
         }
+
         private async Task ShowLuisResult(IDialogContext context, LuisResult result)
         {
             await context.PostAsync($"You have reached {result.Intents[0].Intent}. You said: {result.Query}");
