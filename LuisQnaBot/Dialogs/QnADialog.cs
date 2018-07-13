@@ -5,6 +5,7 @@ using Microsoft.Bot.Builder.CognitiveServices.QnAMaker;
 
 namespace Microsoft.Bot.LuisQnaBot
 {
+    // Connect to General Affair Knowledge base of QnA Maker (https://qnamaker.ai)
     [Serializable]
     public class GADialog : QnAMakerDialog
     {
@@ -17,6 +18,7 @@ namespace Microsoft.Bot.LuisQnaBot
         { }
     }
 
+    // Connect to Human Resources Knowledge base of QnA Maker (https://qnamaker.ai)
     [Serializable]
     public class HRDialog : QnAMakerDialog
     {

@@ -32,7 +32,7 @@ namespace Microsoft.Bot.LuisQnaBot
         [LuisIntent("GA")]
         public async Task GAIntent(IDialogContext context, LuisResult result)
         {
-            await context.PostAsync($"GA Intent");
+            await context.PostAsync($"It is an inquiry about general affairs.");
             await context.Forward(new GADialog(), ResumeAfterQnA, context.Activity, CancellationToken.None);
         }
 
@@ -40,7 +40,7 @@ namespace Microsoft.Bot.LuisQnaBot
         [LuisIntent("HR")]
         public async Task HRIntent(IDialogContext context, LuisResult result)
         {
-            await context.PostAsync($"HR Intent");
+            await context.PostAsync($"It is an inquiry about human resources.");
             await context.Forward(new HRDialog(), ResumeAfterQnA, context.Activity, CancellationToken.None);
         }
 
